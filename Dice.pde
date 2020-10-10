@@ -82,7 +82,7 @@ void setup()
         
         noStroke ();
         fill (130);        
-        square (myX+4, myY+4, 50);
+        rect (myX+4, myY+4, 50, 50);
         fill (0);
         rect (myX, myY, 50, 50);
           fill (255);
