@@ -84,7 +84,7 @@ void setup()
         fill (130);        
         square (myX+4, myY+4, 50);
         fill (0);
-        square (myX, myY, 50);
+        rect (myX, myY, 50, 50);
           fill (255);
           if (value == 1) {
             ellipse (myX+25,myY+25, 10,10);
